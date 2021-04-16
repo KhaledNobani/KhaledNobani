@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to write clean code?
 - 📫 How to reach me: Follow me on twitter @ieuphonia
 - 😄 Pronouns: Khaled Nobani (خالد النوباني)
-- ⚡ Fun fact: Octopuses lay 56,000 eggs at a time shared from (https://www.rd.com/list/interesting-facts/)
+- ⚡ Fun fact: "Octopuses lay 56,000 eggs at a time" shared from (https://www.rd.com/list/interesting-facts/)
