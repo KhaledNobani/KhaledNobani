@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KhaledNobani/KhaledNobani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on development of web and mobile app
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Follow me on twitter @ieuphonia
 - 😄 Pronouns: Khaled Nobani (خالد النوباني)
 - ⚡ Fun fact: Octopuses lay 56,000 eggs at a time shared from (https://www.rd.com/list/interesting-facts/)
--->
