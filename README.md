@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 * 📫 How to reach me: Follow me on Twitter https://twitter.com/iKhaledNobani
 * 😄 Pronouns: Khaled Nobani (خالد النوباني)
 * ⚡ Fun fact: "Octopuses lay 56,000 eggs at a time" shared from (https://www.rd.com/list/interesting-facts/)
-* 📧 Public E-mail address: khaled@khalednobani.com
+* 📧 Public E-mail address: khalednobani@proton.me
 
 
