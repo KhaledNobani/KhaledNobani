@@ -1,14 +1,44 @@
-### Hi there 👋
+## Headline
 
-Here are some ideas to get you started:
+Front-End Engineer
 
-* 🔭 I’m currently working on the development of a web and mobile app
-* 🌱 I’m currently learning Swift and Rust programming
-* 👯 I’m looking to collaborate on building the app on web and mobile
-* 💬 Ask me about how to write clean code?
-* 📫 How to reach me: Follow me on Twitter https://twitter.com/amKhaledNobani
-* 😄 Pronouns: Khaled Nobani (خالد النوباني)
-* ⚡ Fun fact: "Octopuses lay 56,000 eggs at a time" shared from (https://www.rd.com/list/interesting-facts/)
-* 📧 Public E-mail address: khalednobani@proton.me
+## About Me
 
+Highly skilled Senior Front-End Engineer with up to 9 years of experience delivering web application solutions, from concept to deployment. Successfully collaborated with cross- functional teams to transform UI/UX designs into high-traffic web applications serving thousands of daily visitors. Certified UX Designer from the Interaction Design Foundation with a proven track record of creating user-friendly interfaces through successful freelance projects.
 
+## Skills
+
+### Back-End Technologies
+AWS Lambda, Cloudflare Workers, Django, Express.js, Go, MySQL, MongoDB, Python
+
+### Design Tools
+Adobe Illustrator, Adobe Photoshop, Figma, Sketch App
+
+### Development methodologies
+Agile Methodology, CD, CI, DevOps, Scrum
+
+### Front-End Technologies
+Bootstrap, Chrome DevTools, Firefox Developer Tools, HTML, CS, JavaScript, Less, React, Sass, Svelte, Vue.js
+
+### Soft skills
+Collaboration, Communication Skills, Critical Thinking, Leadership, Problem Solving, Teamwork
+
+## Contributions
+
+### Gallery
+<b>Gallery</b>: (https://github.com/KhaledNobani/Gallery) -  A photo gallery with an alternate view mode - jQuery Plugin. An alternate view allows users to switch the gallery view mode to either a thumbnail list or a filmstrip view.
+
+### Angular Google Maps
+<b>Angular Google Maps</b>: (https://github.com/KhaledNobani/ang-google-maps) -  Initialize Initialize Google Maps, set location, drop pins, add Google Directions, and more.
+
+### Angular Google Services
+<b>Angular Google Maps</b>: (https://github.com/khalednobani/ang-google-services) -  Consuming Google's API services.
+
+## Get in Touch
+
+<b>Contact Us</b>: Reach out with any questions or inquiries. (khalednobani@proton.me).
+<br />
+Connect with us on LinkedIn https://linkedin.com/in/KhaledNobani.
+<br />
+Connect with us on Signal https://signal.me/#eu/HFmk9hUssgZhQsaPSbZrTpbOmIP4MnuXLYaNtgvnR7725wjvlepJc51nl6laoOF5.
+<br />
