@@ -17,16 +17,16 @@ Highly skilled Senior Front-End Engineer with up to 9 years of experience delive
 ### Angular Google Services
 <b>Angular Google Maps</b>: (https://github.com/khalednobani/ang-google-services) -  Consuming Google's API services.
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledNobani&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 
-<b>Contact Us</b>: Reach out with any questions or inquiries. (khalednobani@proton.me).
+- <b>Contact Us</b>: Reach out with any questions or inquiries (khalednobani@proton.me).
 <br />
-Connect with us on LinkedIn https://linkedin.com/in/KhaledNobani.
+- <b>Connect</b> with us on <b>LinkedIn</b> https://linkedin.com/in/KhaledNobani.
 <br />
-Connect with us on Signal https://signal.me/#eu/HFmk9hUssgZhQsaPSbZrTpbOmIP4MnuXLYaNtgvnR7725wjvlepJc51nl6laoOF5.
+- <b>Connect</b> with us on <b>Signal</b> https://signal.me/#eu/HFmk9hUssgZhQsaPSbZrTpbOmIP4MnuXLYaNtgvnR7725wjvlepJc51nl6laoOF5.
 <br />
 
 ## Skills
@@ -46,7 +46,7 @@ Bootstrap, Chrome DevTools, Firefox Developer Tools, HTML, CS, JavaScript, Less,
 ### Soft skills
 Collaboration, Communication Skills, Critical Thinking, Leadership, Problem Solving, Teamwork
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
